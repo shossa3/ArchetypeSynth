@@ -1,2 +1,1 @@
-# ArchetypeSynth
-Archetype Synthesizer
+# Archetype_Synth

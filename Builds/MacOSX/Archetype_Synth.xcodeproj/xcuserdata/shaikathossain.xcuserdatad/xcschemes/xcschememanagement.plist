@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Archetype_Synth - AU.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Archetype_Synth - All.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Archetype_Synth - Shared Code.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Archetype_Synth - Standalone Plugin.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Archetype_Synth - VST.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Archetype_Synth - VST3.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>353E18A7471DD021E6E88F08</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4C87CBFE2FB807ECB0A49A22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>596D7093F5AF387B1A4381EF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A45BD6F9E9CDEC12EBC7315F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B46AE45C569008E2CAE3FC53</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EA62BEF49D1E5B4F3319B090</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
